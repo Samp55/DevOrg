@@ -1,3 +1,4 @@
+//Sam Pagar  || Account handler code logic
 public class AccountHandler {
     public static Account insertNewAccount(String Name){
         Account acc=new Account();
